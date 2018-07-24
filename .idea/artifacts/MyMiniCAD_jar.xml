@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyMiniCAD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyMiniCAD_jar</output-path>
+    <root id="archive" name="MyMiniCAD.jar">
+      <element id="module-output" name="MyMiniCAD" />
+    </root>
+  </artifact>
+</component>
